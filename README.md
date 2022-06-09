@@ -1,0 +1,1 @@
+\"C:\\myexe.exe\" 64x64 \"C:\\myexe.png\"
